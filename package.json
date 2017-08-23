@@ -1,5 +1,5 @@
 {
-  "name": "@freon-plugins/cookies",
+  "name": "freon-cookies",
   "version": "1.0.0",
   "description": "Freon plugin to parse and serialize cookies",
   "main": "index.js",
