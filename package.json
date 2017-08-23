@@ -1,0 +1,36 @@
+{
+  "name": "@freon-plugins/cookies",
+  "version": "1.0.0",
+  "description": "Freon plugin to parse and serialize cookies",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdsomer/freon-cookies.git"
+  },
+  "keywords": [
+    "cookie",
+    "parser",
+    "parse",
+    "plugin",
+    "freon",
+    "serialize"
+  ],
+  "author": "Bennett Somerville",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bdsomer/freon-cookies/issues"
+  },
+  "homepage": "https://github.com/bdsomer/freon-cookies#readme",
+  "devDependencies": {
+    "testlite": "^2.0.2"
+  },
+  "dependencies": {
+    "cookie": "^0.3.1"
+  }
+}
