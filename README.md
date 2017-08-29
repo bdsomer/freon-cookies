@@ -1,16 +1,16 @@
-# @freon-plugins/cookies
+# freon-cookies
 Freon plugin to parse and serialize cookies
 
 Installation:
 ```
-npm install @freon-plugins/cookies
+npm install freon-cookies
 ```
 
 Usage:
 ```javascript
 // ... create a Freon application ...
 
-app.plugin(require('@freon-plugins/cookies'));
+app.plugin(require('freon-cookies'));
 ```
 
 ## Properties added to the request object
